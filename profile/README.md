@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roc7d-labs/medic-doc-esp-ai/a168f57a3531a23a31319fae172dc43f5e8121d5/docs/roc7d_MedGemma_Gemini_OpenAI_Claude_333x500.png" width="100%">
+  <img src="./roc7d_MedGemma_Gemini_OpenAI_Claude_333x500.png" width="100%">
 </p>
+
 
 <h1 align="center">roc7d‑labs</h1>
 
