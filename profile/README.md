@@ -81,7 +81,7 @@ More repositories will be added as research expands.
 For collaboration or licensing inquiries:
 
 **roc7d‑labs**  
-📧 Email: *available upon request*  
+📧 Email: roc7d.labs@gmail.com 
 🌐 GitHub: https://github.com/roc7d-labs
 
 ---
