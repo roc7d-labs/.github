@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./roc7d_MedGemma_Gemini_OpenAI_Claude_333x500.png" width="100%">
+  <img src="./HD_Medic-🔬-Doc-ESP-AI_Shri-Dhanvantari_swirling-galaxy-converse_roc7d_MedGemma_Gemini_OpenAI_Claude_333x500.png" width="100%">
 </p>
 
 
